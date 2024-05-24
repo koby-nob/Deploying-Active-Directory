@@ -14,3 +14,10 @@
     - Windows Server 2022 Datacenter: Azure Edition -x64
 
 <h2>Installation Steps</h2>
+
+
+
+
+<p>
+<ima src="https://i.imgur.com/cI1Mt2J.png"
+<p>
