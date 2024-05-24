@@ -14,8 +14,36 @@
     - Windows Server 2022 Datacenter: Azure Edition -x64
 
 <h2>Installation Steps</h2>
+
+
+<p>
+<img src="https://i.imgur.com/oRrNsje.png"
+<p>
+
+
+<p>
+<img src="https://i.imgur.com/is7DETm.png"   
+<p>
+
+
+<p>
+<img src="https://i.imgur.com/cI1Mt2J.png"
+<p>
+
+    
+<p>
+<img src="https://i.imgur.com/DmkvEDu.png"
 <p>
 
 <p>
-<ima src="https://i.imgur.com/cI1Mt2J.png"
+<img src="https://i.imgur.com/ntcpmFB.png"
+</p>
+
 <p>
+<img src="https://i.imgur.com/QRx5C5V.png"
+</p>
+
+
+<p>
+<img src="https://i.imgur.com/IKAHWml.png"
+</p>
