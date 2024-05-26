@@ -15,6 +15,7 @@
 
 <h2>Installation Steps</h2>
 
+- This project will display the deployment section of Active Directory after creating DC-1 & Client-1 VM's in Microsoft Azure
 
 <p>
 <img src="https://i.imgur.com/oRrNsje.png"
