@@ -22,31 +22,45 @@
 </p>
 <p>
 
+    - Click the START button to open the Server Manager or double click the Server Manager icon from Windows desketop screen.
+    - Once the Server Manager is opened, > select Dashboard > then click on "Add roles and features" to start the install process.
+
     
 <p>
 <img src="https://i.imgur.com/is7DETm.png"   
 </p>
 <p>
-Click on (2) Add roles and features to begin your installation once opening the Server Manager Dashboard.
 
+    - Click on Next button from the "Add Roles and Features Wizard" screen move to the next section
 
 <p>
 <img src="https://i.imgur.com/cI1Mt2J.png"
+</p>
 <p>
 
+    - Select Role-based or feature-based installation for the purpose of this project
     
 <p>
 <img src="https://i.imgur.com/DmkvEDu.png"
+</p>
 <p>
+
+    - Check the "Active Directory Domain Services box, then click on next button
 
 <p>
 <img src="https://i.imgur.com/ntcpmFB.png"
 </p>
+<p>
+
+    - Select the "Add domain contoller to an existing domain" for deployment operation
+    - In the Domain box, type: MYDOMAIN.COM for the purpose of this project
 
 <p>
 <img src="https://i.imgur.com/QRx5C5V.png"
 </p>
-
+<p> 
+    
+    - Wait few seconds for installation to be completed and click on the close button
 
 <p>
 <img src="https://i.imgur.com/IKAHWml.png"
