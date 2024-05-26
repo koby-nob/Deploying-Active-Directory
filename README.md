@@ -50,18 +50,20 @@
 <p>
 <img src="https://i.imgur.com/ntcpmFB.png"
 </p>
-<p>
-
-    - Select the "Add domain contoller to an existing domain" for deployment operation
-    - In the Domain box, type: MYDOMAIN.COM for the purpose of this project
+<p> 
+    
+    - Wait few seconds for installation to be completed and click on the close button to move to deployment configuration screen
 
 <p>
 <img src="https://i.imgur.com/QRx5C5V.png"
 </p>
 <p> 
     
-    - Wait few seconds for installation to be completed and click on the close button
+    - Select the "Add domain contoller to an existing domain" for deployment operation
+    - In the Domain box, type: MYDOMAIN.COM for the purpose of this project
+    
 
 <p>
 <img src="https://i.imgur.com/IKAHWml.png"
 </p>
+
