@@ -66,4 +66,8 @@
 <p>
 <img src="https://i.imgur.com/IKAHWml.png"
 </p>
+<p>
+
+    - After the installation is completed, go to the Server Manager > Dashboard  to confirm AD DS is showing up. This will indicate Active Directory has been installed. 
+
 
