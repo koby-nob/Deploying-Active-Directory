@@ -13,6 +13,10 @@
     - Windows 10 Pro  
     - Windows Server 2022 Datacenter: Azure Edition -x64
 
+
+ ![DC_1_Admin](https://github.com/koby-nob/Deploying-Active-Directory/assets/166937258/bd59faf0-3b04-4ab8-a530-8b975dbad1cb)
+
+
 <h2>Installation Steps</h2>
 
 - This project will display the deployment section of Active Directory after creating DC-1 & Client-1 VM's in Microsoft Azure
