@@ -1,5 +1,5 @@
 -  <b>Microsoft Azure</b>
-    - [Installing Active Directory Within Micrsoft Azure VMs]
+    - [Deploying Active Directory Within Micrsoft Azure VMs]
     - This project outlines the steps and process for installing Active Directory on Windows Server.
 
 
