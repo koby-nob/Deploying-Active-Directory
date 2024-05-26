@@ -18,12 +18,15 @@
 
 <p>
 <img src="https://i.imgur.com/oRrNsje.png"
+</p>
 <p>
 
-
+    
 <p>
 <img src="https://i.imgur.com/is7DETm.png"   
+</p>
 <p>
+Click on (2) Add roles and features to begin your installation once opening the Server Manager Dashboard.
 
 
 <p>
